@@ -6,7 +6,12 @@
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-- 🧑‍💻
+| プロジェクト名 | 概要 | リポジトリ |
+|----------------|------|------------|
+| IT系スクールの情報共有・口コミプラットフォーム | 個人開発（開発期間12週間） | [GitHub](https://github.com/na-san-hub/school-chart) |
+| 介護施設情報共有システム | チーム開発（3人、開発期間3週間） | [GitHub](https://github.com/ms-engineer-bc24-06/CareBridge) |
+| ギフト提案LINE BOT（楽天市場商品リンク） | チーム開発（4人、開発期間5日間） | [GitHub](https://github.com/ms-engineer-bc24-06/section8_teamA) |
+
 <br>
 
 <!-- 3. 好きな技術スタックに変更 -->
